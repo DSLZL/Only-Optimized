@@ -1,0 +1,33 @@
+If you see this description, please wait a minute, and I'll get this mess in order soon
+=======================================================================================
+This modpack brings a performance boost to the game
+It does this without changing the in-game graphical user interface (GUI) and game content
+Feature introduction
+Use https://modrinth.com/mod/async-pack-scan"Async Pack Scan to speed up the loading of resource packs
+Use https://modrinth.com/mod/c2me-fabric"C²ME (Fabric) (https://modrinth.com/mod/c2me-fabric"Concurrent Chunk Management Engine (Fabric)
+) to optimize block-related performance
+Use https://modrinth.com/mod/fps-reducer"FPS Reducer to reduce the performance footprint when the game is in the background
+Optimize memory usage with https://modrinth.com/mod/ferrite-core"FerriteCore
+Use https://modrinth.com/mod/immediatelyfast"ImmediatelyFast to improve Instant Mode rendering performance
+Use https://modrinth.com/mod/indium"Indium to provide a rendering API so that mods that use the Fabric Rendering API work at the same time as Sodium
+Use https://modrinth.com/mod/iris"Iris Shaders to provide light and shadow loading so that people who don't know how to use light and shadow loaders don't mess around online and don't use search engines
+Use https://modrinth.com/mod/language-reload"Language Reload to optimize the speed of in-game language switching, and support multi-language selection and multi-language search
+Use https://modrinth.com/mod/lazydfu"LazyDFU to speed up the game's startup (although MOJANG has significantly optimized DFU since 1.19.4, I still added this mod to the modpack to prevent MOJANG from doing bad optimizations in this area as before)
+Use https://modrinth.com/mod/lithium"Lithium to optimize the game system, but not change the game mechanics (although I feel that this passage is weird, but it is the author's exact words).
+Use the https://modrinth.com/mod/modmenu"Mod Menu to help players view mods as well as change mod configurations
+Port bug fixes, optimize and improve the game's startup with https://modrinth.com/mod/modernfix"ModernFix to improve speed and reduce crashes, optimize memory usage
+Speed up rendering with https://modrinth.com/mod/noxesium"Noxesium
+Use https://modrinth.com/mod/sodium"Sodium to improve rendering performance and fix some graphics issues
+Use https://modrinth.com/mod/sodium-extra"Sodium Extra to add most of the features of Optify to the Sodium
+Use https://modrinth.com/mod/starlight"Starlight (Fabric) to improve lighting performance and fix lighting bugs (although MOJANG has significantly improved lighting since 1.20, I still added this mod to the mod pack to prevent MOJANG from doing the same negative optimization in this area as it has in the past) (this may be redundant)
+Use https://modrinth.com/mod/threadtweak"ThreadTweak to improve and adjust CPU thread scheduling
+Use https://modrinth.com/mod/fast-ip-ping"fast-ip-ping to speed up server pings
+The main focus of this modpack is to optimize the performance of the game, and it does this by not adding any unnecessary extra features, thus ensuring that it remains very lightweight
+This modpack has a backup repository on Github, and you can create an issue if you have any questions (I wouldn't say it's open source because I don't do anything other than integration).
+Compared to Optifine, this modpack is more compatible with other mods without errors or missing textures, tearing, or crashes
+When the modpack is not installed on the server, the client will still be able to play on the server and will not change any game content
+This modpack keeps up with the latest version of the game (and of course I have to note that there are new versions).
+This modpack is very lightweight, for example, after installing version 1.0.1, it only takes up 19.0 MB of storage
+So, get ready to get the best gaming experience by improving performance and efficiency!
+Another point, because I am not good at English, I used Microsoft Translator to write the above words, and I am very sorry if it has caused you inconvenience or misunderstanding.
+If you can help me https://crowdin.com/project/only-optimized"translate, I would appreciate it.
